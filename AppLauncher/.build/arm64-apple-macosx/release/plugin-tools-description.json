@@ -1,0 +1,954 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.xctest/Contents/MacOS/AppLauncherPackageTests",
+      "packagePath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher",
+      "productName" : "AppLauncherPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AppLauncher-arm64-apple-macosx16.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/sources",
+      "importPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/AppLauncherApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Models/AppItem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/AppScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/IconCache.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/DebugLogger.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/ViewModels/LauncherViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppGridView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppIconView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/LauncherView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PageIndicatorView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PagerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBarModern.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/VisualEffectView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "AppLauncher",
+      "moduleOutputPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules/AppLauncher.swiftmodule",
+      "objects" : [
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncherApp.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppItem.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppScanner.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/IconCache.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppDelegate.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/DebugLogger.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherViewModel.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppGridView.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppIconView.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherView.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PageIndicatorView.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PagerView.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBar.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBarModern.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/VisualEffectView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-O",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "AppLauncher_main",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "applauncher"
+      ],
+      "outputFileMapPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncherApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppItem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/IconCache.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/DebugLogger.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppGridView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppIconView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PageIndicatorView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PagerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBarModern.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/VisualEffectView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules/AppLauncher.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/AppLauncherApp.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Models/AppItem.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/AppScanner.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/IconCache.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/AppDelegate.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/DebugLogger.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/ViewModels/LauncherViewModel.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppGridView.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppIconView.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/LauncherView.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PageIndicatorView.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PagerView.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBar.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBarModern.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/VisualEffectView.swift"
+      ],
+      "tempsPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.AppLauncherPackageTests-arm64-apple-macosx16.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/sources",
+      "importPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules/AppLauncherTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AppLauncherPackageTests",
+      "moduleOutputPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules/AppLauncherPackageTests.swiftmodule",
+      "objects" : [
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-O",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/AppLauncherPackageTests-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "applauncher"
+      ],
+      "outputFileMapPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules/AppLauncherPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.AppLauncherTests-arm64-apple-macosx16.0-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/sources",
+      "importPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/AppScannerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/IconCacheTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AppLauncherTests",
+      "moduleOutputPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules/AppLauncherTests.swiftmodule",
+      "objects" : [
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/AppScannerTests.swift.o",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/IconCacheTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-index-store-path",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/index/store",
+        "-O",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j10",
+        "-DSWIFT_PACKAGE",
+        "-module-cache-path",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "applauncher"
+      ],
+      "outputFileMapPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/AppScannerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/IconCacheTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules/AppLauncherTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/AppScannerTests.swift",
+        "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/IconCacheTests.swift"
+      ],
+      "tempsPath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AppLauncher" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AppLauncher",
+      "-package-name",
+      "applauncher",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/AppLauncherApp.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Models/AppItem.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/AppScanner.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/IconCache.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/AppDelegate.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/DebugLogger.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/ViewModels/LauncherViewModel.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppGridView.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppIconView.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/LauncherView.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PageIndicatorView.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PagerView.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBar.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBarModern.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/VisualEffectView.swift",
+      "-I",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-O",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "AppLauncher_main",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "applauncher",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "AppLauncherPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AppLauncherPackageTests",
+      "-package-name",
+      "applauncher",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.derived/runner.swift",
+      "-I",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-O",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/AppLauncherPackageTests-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "applauncher",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "AppLauncherTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "AppLauncherTests",
+      "-package-name",
+      "applauncher",
+      "-whole-module-optimization",
+      "-num-threads",
+      "10",
+      "-c",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/AppScannerTests.swift",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/IconCacheTests.swift",
+      "-I",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-index-store-path",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/index/store",
+      "-O",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j10",
+      "-DSWIFT_PACKAGE",
+      "-module-cache-path",
+      "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "applauncher",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AppLauncher" : [
+
+    ],
+    "AppLauncherPackageTests" : [
+      "AppLauncherTests",
+      "AppLauncher"
+    ],
+    "AppLauncherTests" : [
+      "AppLauncher"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/AppLauncherApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Models/AppItem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/AppScanner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/IconCache.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/DebugLogger.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/ViewModels/LauncherViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppGridView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppIconView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/LauncherView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PageIndicatorView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PagerView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBar.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBarModern.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/VisualEffectView.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/sources"
+    },
+    "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppGridView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppIconView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppItem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncherApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/DebugLogger.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/IconCache.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PageIndicatorView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PagerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBarModern.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/VisualEffectView.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.product/Objects.LinkFileList"
+    },
+    "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/sources"
+    },
+    "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppGridView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppIconView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppItem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncherApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppScanner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/DebugLogger.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/IconCache.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PageIndicatorView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PagerView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBar.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBarModern.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/VisualEffectView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/AppScannerTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/IconCacheTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherPackageTests.product/Objects.LinkFileList"
+    },
+    "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/AppScannerTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/IconCacheTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncherTests.build/sources"
+    },
+    "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

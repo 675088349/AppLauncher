@@ -1,0 +1,20 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "214f349e57987dce70449c027833f52498c2b455f26dd666fefa928933c431ed"
+build_start_time: [1764756233, 213020000]
+build_end_time: [1764756233, 742539000]
+inputs:
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/AppLauncherApp.swift": !dirty [1764749566, 376436094]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Models/AppItem.swift": !dirty [1764740648, 440503478]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Services/AppScanner.swift": !dirty [1764754048, 819721224]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Services/IconCache.swift": !dirty [1764740666, 754843680]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Utilities/AppDelegate.swift": !dirty [1764749750, 429019754]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Utilities/DebugLogger.swift": !dirty [1764752029, 929285736]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/ViewModels/LauncherViewModel.swift": !dirty [1764754974, 551136591]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Views/AppGridView.swift": !dirty [1764755032, 901915782]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Views/AppIconView.swift": !dirty [1764740708, 561559505]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Views/LauncherView.swift": !dirty [1764756221, 560376695]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Views/PageIndicatorView.swift": !dirty [1764740898, 74628208]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Views/PagerView.swift": !dirty [1764748665, 795861551]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Views/SearchBar.swift": !dirty [1764740722, 251389216]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Views/SearchBarModern.swift": !dirty [1764743871, 984249901]
+  "/Users/admin/Desktop/\u672A\u547D\u540D\u6587\u4EF6\u5939/AppLauncher/Sources/AppLauncher/Views/VisualEffectView.swift": !dirty [1764740735, 757322113]

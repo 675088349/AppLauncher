@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:未命名文件夹}/AppLauncher",
+            "name": "Debug AppLauncher (AppLauncher)",
+            "program": "${workspaceFolder:未命名文件夹}/AppLauncher/.build/debug/AppLauncher",
+            "preLaunchTask": "swift: Build Debug AppLauncher (AppLauncher)"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:未命名文件夹}/AppLauncher",
+            "name": "Release AppLauncher (AppLauncher)",
+            "program": "${workspaceFolder:未命名文件夹}/AppLauncher/.build/release/AppLauncher",
+            "preLaunchTask": "swift: Build Release AppLauncher (AppLauncher)"
+        }
+    ]
+}

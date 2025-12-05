@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/master.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/AppScannerTests.swift": {
+    "dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/AppScannerTests.d",
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/AppScannerTests.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/AppScannerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/AppScannerTests.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Tests/AppLauncherTests/IconCacheTests.swift": {
+    "dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/IconCacheTests.d",
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/IconCacheTests.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/IconCacheTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherTests.build/IconCacheTests.swiftdeps"
+  }
+}

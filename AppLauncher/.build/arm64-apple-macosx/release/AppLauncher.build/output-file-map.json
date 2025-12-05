@@ -1,0 +1,82 @@
+{
+  "": {
+    "dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncher.d",
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncher.o",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/master.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/AppLauncherApp.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncherApp.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncherApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppLauncherApp.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Models/AppItem.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppItem.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppItem.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/AppScanner.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppScanner.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppScanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppScanner.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Services/IconCache.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/IconCache.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/IconCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/IconCache.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/AppDelegate.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppDelegate.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Utilities/DebugLogger.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/DebugLogger.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/DebugLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/DebugLogger.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/ViewModels/LauncherViewModel.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherViewModel.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherViewModel.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppGridView.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppGridView.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppGridView~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppGridView.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/AppIconView.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppIconView.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppIconView~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/AppIconView.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/LauncherView.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherView.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherView~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/LauncherView.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PageIndicatorView.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PageIndicatorView.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PageIndicatorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PageIndicatorView.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/PagerView.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PagerView.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PagerView~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/PagerView.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBar.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBar.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBar~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBar.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/SearchBarModern.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBarModern.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBarModern~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/SearchBarModern.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/Sources/AppLauncher/Views/VisualEffectView.swift": {
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/VisualEffectView.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/VisualEffectView~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/release/AppLauncher.build/VisualEffectView.swiftdeps"
+  }
+}

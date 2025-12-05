@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherPackageTests.build/master.swiftdeps"
+  },
+  "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherPackageTests.build/runner.d",
+    "object": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/未命名文件夹/AppLauncher/.build/arm64-apple-macosx/debug/AppLauncherPackageTests.build/runner.swiftdeps"
+  }
+}
